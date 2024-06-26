@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="padding:12px;">
   <img src="https://www.springboard.com/library/static/f069aa8aaa8fd3e4b11fdc9a959fb4cb/801ec/mobile-app-vs-web-apps.jpg" alt="MasterHead" style="padding: 10px;">
 </p>                               
 <h1 align="center">Hi 👋, I'm Mustafa Toprak</h1>
