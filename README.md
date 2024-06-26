@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQHF3zA6gn5QiQ/article-cover_image-shrink_720_1280/0/1697304554077?e=2147483647&v=beta&t=D4U2ytr2rDrtd80Vp2Jw62_qPQPkN8Qav_ZxDao2Wjg)
+![MasterHead](https://www.springboard.com/library/static/f069aa8aaa8fd3e4b11fdc9a959fb4cb/801ec/mobile-app-vs-web-apps.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Toprak</h1>
 <h3 align="center">A dedicated backend developer based in Turkey</h3>
 
