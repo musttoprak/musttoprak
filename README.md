@@ -1,4 +1,6 @@
-![MasterHead](https://www.springboard.com/library/static/f069aa8aaa8fd3e4b11fdc9a959fb4cb/801ec/mobile-app-vs-web-apps.jpg)
+<p align="center">
+  <img src="https://www.springboard.com/library/static/f069aa8aaa8fd3e4b11fdc9a959fb4cb/801ec/mobile-app-vs-web-apps.jpg" alt="MasterHead" style="padding: 10px;">
+</p>                               
 <h1 align="center">Hi 👋, I'm Mustafa Toprak</h1>
 <h3 align="center">A dedicated backend developer based in Turkey</h3>
 
